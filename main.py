@@ -1,5 +1,5 @@
 import os, requests, random, threading, json, time, multiprocessing
-from pycuolor import color
+from pycoloring import color
 from colorama import Fore
 
 # Credit to Pycenter by billythegoat356
